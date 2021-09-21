@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridClasses", "..\GridClass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerClass", "..\PlayerClass\PlayerClass.csproj", "{28344389-8E58-471C-B764-B79EC390C752}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameClass", "..\GameClass\GameClass.csproj", "{735FA97E-B7BC-4183-9AE3-33DF591F206A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{28344389-8E58-471C-B764-B79EC390C752}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28344389-8E58-471C-B764-B79EC390C752}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28344389-8E58-471C-B764-B79EC390C752}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735FA97E-B7BC-4183-9AE3-33DF591F206A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735FA97E-B7BC-4183-9AE3-33DF591F206A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735FA97E-B7BC-4183-9AE3-33DF591F206A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735FA97E-B7BC-4183-9AE3-33DF591F206A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
